@@ -1,0 +1,56 @@
+_repo: The-journal-of-Frederick-Horneman-s-travels-from-Cairo-to-Mourzouk-the-capital-of-the-kingdom__71426
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Hornemann, Friedrich
+    gutenberg_agent_id: '56225'
+    url: http://www.gutenberg.org/2009/agents/56225
+  - agent_name: Marsden, William
+    birthdate: 1754
+    deathdate: 1836
+    gutenberg_agent_id: '6918'
+    url: http://www.gutenberg.org/2009/agents/6918
+  - agent_name: Rodd, Rennell
+    aliases:
+    - Rennell, James Rennell Rodd, Baron
+    - Rodd, James Rennell
+    birthdate: 1858
+    deathdate: 1941
+    gutenberg_agent_id: '37970'
+    url: http://www.gutenberg.org/2009/agents/37970
+  - agent_name: Young, William
+    alias: Ex-editor
+    birthdate: 1809
+    deathdate: 1888
+    gutenberg_agent_id: '39857'
+    url: http://www.gutenberg.org/2009/agents/39857
+  editor:
+    agent_name: Association for Promoting the Discovery of the Interior Parts of Africa
+    aliases:
+    - Africa, Association for Promoting the Discovery of the Interior Parts of
+    - African Association (London, England)
+    - Gesellschaft zur Beförderung der Entdeckungen im Innern von Africa
+    - Gesellschaft zur Beforderung der Entdeckungen im Innern von Africa
+    gutenberg_agent_id: '56087'
+    url: http://www.gutenberg.org/2009/agents/56087
+    wikipedia: https://en.wikipedia.org/wiki/African_Association
+description: ''
+gutenberg_issued: '2023-08-17'
+identifiers:
+  gutenberg: '71426'
+language: en
+pgterms:marc904: https://archive.org/details/journaloffrederi00horn
+pgterms:marc905: 20230808233636hornemann
+pgterms:marc906: '1802'
+pgterms:marc907: GB
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bG. and W. Nicol, $c1802.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The journal of Frederick Horneman's travels, from Cairo to Mourzouk, the capital
+  of the kingdom of Fezzan, in Africa, in the years 1797-8
+url: http://www.gutenberg.org/ebooks/71426
